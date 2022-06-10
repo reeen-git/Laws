@@ -1,5 +1,5 @@
 # laws
-「6aws」はxcodeprojectのファイルが消えCloneができないため、こちらよりクローンをお願い致します。  
+[「6laws」](https://github.com/reeen-git/6aws)はxcodeprojectのファイルが消えCloneができないため、こちらよりクローンをお願い致します。  
 プロジェクト内容は同じものです。  
   
 -------------------------
